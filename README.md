@@ -1,6 +1,6 @@
 # HW2_S25
 
-**Due Thursday 2/22 11:59 PM Eastern.**
+**Due Thursday 2/20 11:59 PM Eastern.**
 
 ## Homework Overview
 
